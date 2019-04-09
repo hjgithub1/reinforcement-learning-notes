@@ -7,3 +7,6 @@
 Deep Reinforcement Learning Doesn't Work Yet  https://www.alexirpan.com/2018/02/14/rl-hard.html
 
 强化学习奖励函数优化  https://arxiv.org/abs/1611.05397
+
+一些文献：Learning Heuristics Over Large Graphs Via Deep Reinforcement Learning
+        注意力机制学习解决路由问题  Attention Is All You Need
